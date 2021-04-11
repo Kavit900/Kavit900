@@ -13,7 +13,7 @@
 <br/>
 
 - 🔭 I’m currently working as SDE at Amazon.
-- 🌱 I’m currently learning React-native and Golang.
+- 🌱 I’m currently learning React Native and Golang.
 - 😄 Pronouns: He/His
 
 [![Twitter follow @kmmtmm92](https://img.shields.io/twitter/follow/kmmtmm92?style=social)](https://twitter.com/kmmtmm92) &nbsp;
